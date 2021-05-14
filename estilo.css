@@ -1,0 +1,68 @@
+body {
+  background:#98ded9;
+  color: #161d6f;
+}
+h1 {
+  font-weight:normal;
+  text-align:left;
+}
+h2 {
+  font:Rockwell;
+}
+p {
+  font-size:20px;
+  text-align:center;
+  text-transform:capitalize;
+  text-shadow:5px;
+  line-height:30px;  
+}
+a {
+  font: 100% Rockwell;
+  text-decoration:none;
+}
+a:hover {
+  color: #000;
+}
+a:active {
+  box-shadow:none;
+}
+#titulo{
+  font-size: 35px;
+  color: #161d6f;
+  text-align: center;
+}
+#princip{
+  background: #f6f6f6;
+}
+#intro{
+  font-style: roman;
+  font-size: 20px;
+  margin: 10px 100px 10px 100px;
+}
+#titulo1{
+  font-size: 50px;
+  font-style: italic;
+  margin: 20px;
+}
+#texto1{
+  font-style: roman;
+  font-size: 20px;
+  margin: 30px 70px 20px 70px;
+}
+#Mejor{
+  font-style: italic;
+  font-size: 40px;
+  margin: 20px 70px 20px 70px;
+}
+#subT{
+  font-size: 25px;
+  font-style: roman;
+  color: #161d6f;
+  text-align: left;
+}
+#dat{
+  font-size: 25px;
+  font-style: roman;
+  color: #161d6f;
+  text-align: center;
+}
